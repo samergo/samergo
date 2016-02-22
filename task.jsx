@@ -1,3 +1,5 @@
+import React from 'react';
+
 // Task component - represents a single todo item
 Task = React.createClass({
   propTypes: {
